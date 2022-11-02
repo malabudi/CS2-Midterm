@@ -1,0 +1,6 @@
+﻿  MidtermCS2.cpp
+C:\Users\alabudi\Documents\GitHub\CS2-Midterm\MidtermCS2\MidtermCS2.cpp(9,15): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\alabudi\Documents\GitHub\CS2-Midterm\MidtermCS2\MidtermCS2.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alabudi\Documents\GitHub\CS2-Midterm\MidtermCS2\MidtermCS2.cpp(28,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alabudi\Documents\GitHub\CS2-Midterm\MidtermCS2\MidtermCS2.cpp(32,27): warning C4018: '<': signed/unsigned mismatch
+  MidtermCS2.vcxproj -> C:\Users\alabudi\Documents\GitHub\CS2-Midterm\MidtermCS2\Debug\MidtermCS2.exe

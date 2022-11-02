@@ -1,0 +1,3 @@
+C:\Users\alabudi\source\repos\MidtermCS2\Debug\MidtermCS2.exe
+C:\Users\alabudi\Documents\GitHub\CS2-Midterm\Debug\MidtermCS2.exe
+C:\Users\alabudi\Documents\GitHub\CS2-Midterm\MidtermCS2\Debug\MidtermCS2.exe
